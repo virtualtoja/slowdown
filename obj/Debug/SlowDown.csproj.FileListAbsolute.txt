@@ -1,0 +1,11 @@
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\bin\Debug\SlowDown.exe.config
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\bin\Debug\SlowDown.exe
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\bin\Debug\SlowDown.pdb
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.csprojAssemblyReference.cache
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.Form1.resources
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.Properties.Resources.resources
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.csproj.GenerateResource.cache
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.csproj.CoreCompileInputs.cache
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.exe
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.pdb
+C:\Users\Tymon\source\repos\SlowDown\SlowDown\obj\Debug\SlowDown.SettingsForm.resources
